@@ -1,5 +1,5 @@
 # Teste front-end Nave.rs
-Repositório referente ao teste para front-end da Nave.rs(nave.rs).
+Repositório referente ao teste para front-end da Nave.rs.
 
 ##  Como testar
 Primeiramente clone o repositório no diretório de sua preferência, em seguida, abra o terminal no diretório do clone e rode o comando `NPM start`, após abrir o navegador, se você já possuir uma conta, basta fazer login, caso contrario, clique no link de cadastro e crie uma conta.
