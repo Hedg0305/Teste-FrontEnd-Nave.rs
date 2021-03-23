@@ -12,7 +12,7 @@ Primeiramente clone o repositório no diretório de sua preferência, em seguida
 
 ### 🛠 Bibliotecas
 
-- [Yup](https://www.npmjs.com/package/yup):
+- [Yup](https://www.npmjs.com/package/yup)
 - [React Hook Form](https://react-hook-form.com/)
 - [React Modal](https://github.com/reactjs/react-modal)
 - [React Icons](https://react-icons.github.io/react-icons/)
